@@ -10,10 +10,8 @@ Santos, V. B. de S., & Bittencourt, M. V. L. (2024). Revisiting the economic gro
 
 The file tec_database.dta is the dataset.
 
-The "do file" folder contains 4 files:
-1- tec_main_reg.do: Main regressions (table 3).
-2- tec_sen_analysis.do: Sensitive analysis on the main regression (supplementary material)
-3- tec_conv_reg.do: beta convergence regressions (table 4)
-4- tec_demo_reg.do: Regressions using alternative measures of political regime (table 5) 
-
-O
+The "do file" folder contains 4 files: \\
+1- tec_main_reg.do: Main regressions (table 3). \\
+2- tec_sen_analysis.do: Sensitive analysis on the main regression (supplementary material)\\
+3- tec_conv_reg.do: beta convergence regressions (table 4)\\
+4- tec_demo_reg.do: Regressions using alternative measures of political regime (table 5) \\
